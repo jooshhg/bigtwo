@@ -1,0 +1,59 @@
+Player 1 was dealt: ['6H', 'AD', 'AC', '0D', 'JH', '2H', 'KH', '4C', '8S', '2D', '5C', '3H', '0H']
+Player 2 was dealt: ['QD', '4D', '4H', 'KC', '2C', '9H', '7H', '9C', 'QS', '8C', 'QH', 'AS', '5D']
+Player 3 was dealt: ['QC', 'KS', '5H', 'JD', '3D', '6D', '3C', '7D', '3S', '4S', '8H', '2S', 'AH']
+Player 4 was dealt: ['JC', '6S', '0S', 'KD', '6C', '8D', 'JS', '0C', '9D', '7C', '7S', '9S', '5S']
+
+
+Player 3 has the 3 of Diamonds and goes first.
+Player 3 played ['3D']
+Player 4 played ['5S']
+It is your turn to play.
+
+
+The Current play to beat is: ['5S']
+
+
+YOU MUST PLAY: single
+
+
+POSSIBLE PLAYS:
+['3H', '4C', '5C', '6H', '8S', '0D', '0H', 'JH', 'KH', 'AD', 'AC', '2D', '2H']
+
+
+Please enter a play: 6h
+Player 1 played ['6H']
+Player 2 played ['7H']
+Player 3 played ['8H']
+Player 4 played ['9D']
+It is your turn to play.
+
+
+The Current play to beat is: ['9D']
+
+
+YOU MUST PLAY: single
+
+
+POSSIBLE PLAYS:
+['3H', '4C', '5C', '6H', '8S', '0D', '0H', 'JH', 'KH', 'AD', 'AC', '2D', '2H']
+
+
+Please enter a play: 0h
+Player 1 played ['0H']
+Player 2 played ['QD']
+Player 3 played ['QC']
+Player 4 played ['KD']
+It is your turn to play.
+
+
+The Current play to beat is: ['KD']
+
+
+YOU MUST PLAY: single
+
+
+POSSIBLE PLAYS:
+['3H', '4C', '5C', '6H', '8S', '0D', '0H', 'JH', 'KH', 'AD', 'AC', '2D', '2H']
+
+
+Please enter a play:
